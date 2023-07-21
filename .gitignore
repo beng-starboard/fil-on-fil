@@ -2,3 +2,5 @@ data/df_height.csv
 .data/df_height.csv
 *.csv
 data/*.csv
+.DS_Store
+*.DS_Store
